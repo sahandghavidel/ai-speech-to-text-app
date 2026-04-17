@@ -1,0 +1,12 @@
+modal
+pydantic>=2.7
+fastapi[standard]
+requests
+torch
+accelerate
+huggingface-hub
+soundfile
+librosa
+sentencepiece
+protobuf
+git+https://github.com/huggingface/transformers
